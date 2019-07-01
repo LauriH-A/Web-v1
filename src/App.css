@@ -1,0 +1,17 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  
+}
+
+.card img{
+  width: 100%;
+
+}
+
+.card-body button{
+  width: 100%;
+  background: white;
+  color: black;
+  border-color: black;
+}
